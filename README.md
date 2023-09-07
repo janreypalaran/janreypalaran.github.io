@@ -3,7 +3,8 @@
 #### Technical Skills: Java, Python, SQL, .Net, C#, Shell, Linux, Cisco
 
 ## Education							       		
-- M.S., IT | Adamson University (_July 2021_)	 			        		
+- Ph.D., IT | Adamson University (_Aug 2023_)
+- M.S., IT | Adamson University (_Jul 2021_)	 			        		
 - B.S., IT | University of Pasig (_May 2014_)
 
 ## Work Experience

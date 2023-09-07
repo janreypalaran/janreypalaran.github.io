@@ -3,8 +3,8 @@
 #### Technical Skills: Java, Python, SQL
 
 ## Education							       		
-- M.S., IT	| Adamson University (_July 2021_)	 			        		
-- B.S., IT | The University of Texas at Dallas (_May 2014_)
+- M.S., IT | Adamson University (_July 2021_)	 			        		
+- B.S., IT | University of Pasig (_May 2014_)
 
 ## Work Experience
 **Cloud Application Consultant - OpenText Inc. (_2016 - Present_)**

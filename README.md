@@ -1,6 +1,6 @@
 # Software Engineer
 
-#### Technical Skills: Java, Python, SQL
+#### Technical Skills: Java, Python, SQL, .Net, C#, Shell, Linux, Cisco
 
 ## Education							       		
 - M.S., IT | Adamson University (_July 2021_)	 			        		

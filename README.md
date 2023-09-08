@@ -3,7 +3,7 @@
 #### Technical Skills: Java, Python, SQL, .Net, C#, Shell, Linux, Cisco
 
 ## Education							       		
-//- Ph.D., IT | Technological University of the Philippines (_Aug 2023_)
+<!-- - Ph.D., IT | Technological University of the Philippines (_Aug 2023_) -->
 - M.S., IT | Adamson University (PH) (_Jul 2021_)	 			        		
 - B.S., IT | University of Pasig (PH) (_May 2014_)
 

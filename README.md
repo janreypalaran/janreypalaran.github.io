@@ -35,4 +35,4 @@
 - "Ticket Dashboard" Project lead for team ticket monitoring and forcasting tool. Develop a tool that has predictive analytics to forcast volume of tickets day by day, month and year using AI and machine learning technique with 95% accuracy.
 
 ### 2018
--"Collaboration Dashboard" Project Lead for Team Dashboard Detecting Anomalies and Defect Reporting Resulting to Production Escalation. Develop a system dashboard that detects patterns and anomalies using AI and machine learning technique with 97% accuracy.
+- "Collaboration Dashboard" Project Lead for Team Dashboard Detecting Anomalies and Defect Reporting Resulting to Production Escalation. Develop a system dashboard that detects patterns and anomalies using AI and machine learning technique with 97% accuracy.

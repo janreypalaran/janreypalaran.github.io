@@ -36,3 +36,25 @@
 
 ### 2018
 - "Collaboration Dashboard" Project Lead for Team Dashboard Detecting Anomalies and Defect Reporting Resulting to Production Escalation. Develop a system dashboard that detects patterns and anomalies using AI and machine learning technique with 97% accuracy.
+
+## Courses and Certifications
+- World Quant University - Applied Data Science I and II
+- Great Learning Academy - Data Science, AI, Machine Learning
+- Google Data Analytics Academy - Data Analytics
+- Mst Connect - Project Management
+- Microgenesis Business System - Red Hat Enterprise Linux System Administration I
+- Axelos Global - ITIL FOUNDATION CERTIFIED IN IT SERVICE MANAGEMENT
+
+## Courses and Certifications
+- World Quant University - Applied Data Science I and II
+- Great Learning Academy - Data Science, AI, Machine Learning
+- Google Data Analytics Academy - Data Analytics
+- Mst Connect - Project Management
+- Microgenesis Business System - Red Hat Enterprise Linux System Administration I
+- Axelos Global - ITIL FOUNDATION CERTIFIED IN IT SERVICE MANAGEMENT
+
+## Project Engagement
+- Python for Machine Learning (IDLE, Jupyter, Colab, VS 2019, Pycharm). Object Detection using open-cv, tensorflow, yolov3, imageAI, keras, matplotlib. Speech recognition using pytessarct, pytorch. Stock Price / Analysis Prediction classification algorithm for training models (predictive analysis) using ID3, KNN, scikit-learn, linear regression, bayes, decision trees, random forest, SVM. Spam Detection.
+
+## Interest/Research
+- AI, Statistics, Cloud Technology, 5G, Blockchain.

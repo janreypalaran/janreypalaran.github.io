@@ -10,7 +10,7 @@
 ## Work Experience
 **Cloud Application Consultant - OpenText Inc. (_2016 - Present_)**
 - Project lead on a solution management team dedicated on APJ region. Provide software analysis, development, quality and integeration  which processes thousands of B2B data transaction daily.
-- Perform end to end software implementation including new/base map, change management. Application of Agile project management including UAT, Pre and Postproduction testing. RCA discussion and Defect Management for any suspected issues.
+- Perform end to end software implementation including new/base map and change management. Application of Agile project management including UAT, Pre and Postproduction testing. RCA engagement and Defect Management for any suspected issues.
 - Provide technical mentorship to junior members.Provide best practices and enforced coding standards.  Discusses business architecture and process design
 
 **Customer Support - Hinduja Global Sol. (_2014 - 2016_)**

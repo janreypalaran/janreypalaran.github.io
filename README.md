@@ -43,14 +43,6 @@
 - Google Data Analytics Academy - Data Analytics
 - Mst Connect - Project Management
 - Microgenesis Business System - Red Hat Enterprise Linux System Administration I
-- Axelos Global - ITIL FOUNDATION CERTIFIED IN IT SERVICE MANAGEMENT
-
-## Courses and Certifications
-- World Quant University - Applied Data Science I and II
-- Great Learning Academy - Data Science, AI, Machine Learning
-- Google Data Analytics Academy - Data Analytics
-- Mst Connect - Project Management
-- Microgenesis Business System - Red Hat Enterprise Linux System Administration I
 - Axelos Global - ITIL Fondation Certified In IT Service Management
 
 ## Project Engagement

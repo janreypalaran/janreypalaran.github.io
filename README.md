@@ -3,9 +3,9 @@
 #### Technical Skills: Java, Python, SQL, .Net, C#, Shell, Linux, Cisco
 
 ## Education							       		
-- Ph.D., IT | Adamson University (_Aug 2023_)
-- M.S., IT | Adamson University (_Jul 2021_)	 			        		
-- B.S., IT | University of Pasig (_May 2014_)
+//- Ph.D., IT | Technological University of the Philippines (_Aug 2023_)
+- M.S., IT | Adamson University (PH) (_Jul 2021_)	 			        		
+- B.S., IT | University of Pasig (PH) (_May 2014_)
 
 ## Work Experience
 **Cloud Application Consultant - OpenText Inc. (_2016 - Present_)**

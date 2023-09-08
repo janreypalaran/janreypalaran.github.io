@@ -14,9 +14,9 @@
 - Provide technical mentorship to junior members.Provide best practices and enforced coding standards.  Discusses business architecture and process design
 
 <!-- **Customer Support - Hinduja Global Sol. (_2014 - 2016_)** -->
-- Listening & responding with the greatest concern, health insurance related and emergency service requests.
-- Provide effective diffuse high-tension situations in goal driven environment.
-- Negotiate with 3rd party providers to ensure calls are resolved in timely manner.
+<!-- - Listening & responding with the greatest concern, health insurance related and emergency service requests. -->
+<!-- - Provide effective diffuse high-tension situations in goal driven environment. -->
+<!-- - Negotiate with 3rd party providers to ensure calls are resolved in timely manner. -->
 
 ## Projects
 ### 2023

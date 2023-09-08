@@ -51,7 +51,7 @@
 - Google Data Analytics Academy - Data Analytics
 - Mst Connect - Project Management
 - Microgenesis Business System - Red Hat Enterprise Linux System Administration I
-- Axelos Global - ITIL FOUNDATION CERTIFIED IN IT SERVICE MANAGEMENT
+- Axelos Global - ITIL Fondation Certified In IT Service Management
 
 ## Project Engagement
 - Python for Machine Learning (IDLE, Jupyter, Colab, VS 2019, Pycharm). Object Detection using open-cv, tensorflow, yolov3, imageAI, keras, matplotlib. Speech recognition using pytessarct, pytorch. Stock Price / Analysis Prediction classification algorithm for training models (predictive analysis) using ID3, KNN, scikit-learn, linear regression, bayes, decision trees, random forest, SVM. Spam Detection.

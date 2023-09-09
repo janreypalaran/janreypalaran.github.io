@@ -19,23 +19,23 @@
 <!-- - Negotiate with 3rd party providers to ensure calls are resolved in timely manner. -->
 
 ## Projects
-### 2023
-- Process Improvement Lead: File Merger Script (98.5%) time saving and automate processes. Develop a window shell script to format files.
+### 2023 (File Merger Tool)
+- Process Improvement Lead: File Merger (98.5%) time saving and automate processes. Develop a window shell script to format files.
 
-### 2022
-- Develop and propose a tableau-like dashboard to visualize core business KPI. (e.g., monthly productivity metrics, forecasting and predictive analysis for customers and employee), saving a month of manual review from the current use of spreadsheet into the newly system using machine learning classification algorithm converting report into real time output.
+### 2022 (Intra-network Performance Management Support System using Artificial Intelligence/ID3 Classification Algorithm for Data Mining)
+- Develop and propose a tableau-like dashboard to visualize core business KPI. (e.g., monthly productivity metrics, forecasting and predictive analysis for customers and employee), saving a month of manual review from the current use of spreadsheet into the newly system using machine learning classification algorithm converting report into real time output with (97% accuracy and 98% time saving vs manual process)
 
-### 2021
+### 2021 (File Correction Tool)
 - Develop a tool for Automated Filename Correction (90%-time savings vs manual processing – Team Level), Project Production File Filtering (96%-time savings Team Level), Quick Links (95%- time savings).
 
-### 2020
+### 2020 (SLA Management Dashboard)
 - Project lead for SLA and Elapsed Management and analysis tool. Develop a tool using AI to generate data analysis and forcast for team.
 
-### 2019
+### 2019 (SO Dashboard)
 - "Ticket Dashboard" Project lead for team ticket monitoring and forcasting tool. Develop a tool that has predictive analytics to forcast volume of tickets day by day, month and year using AI and machine learning technique with 95% accuracy.
 
-### 2018
-- "Collaboration Dashboard" Project Lead for Team Dashboard Detecting Anomalies and Defect Reporting Resulting to Production Escalation. Develop a system dashboard that detects patterns and anomalies using AI and machine learning technique with 97% accuracy.
+### 2018 (Collaboration Dashboard)
+- Project Lead for Team Dashboard Detecting Anomalies and Defect Reporting Resulting to Production Escalation. Develop a system dashboard that detects patterns and anomalies using AI and machine learning technique with 97% accuracy.
 
 ## Courses and Certifications
 - World Quant University - Applied Data Science I and II

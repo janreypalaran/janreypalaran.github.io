@@ -1,4 +1,4 @@
-# Cloud Application Consultant
+# Software Consultant
 
 #### Technical Skills: Java, Python, SQL, .Net, C#, Shell, Linux, Cisco
 
@@ -8,7 +8,7 @@
 - B.S., IT | University of Pasig (PH) (_May 2014_)
 
 ## Work Experience
-**Cloud Application Consultant - OpenText Inc. (_2014 - Present_)**
+**Consultant (_2014 - Present_)**
 - Project lead on a solution management team dedicated on APJ region. Provide software analysis, development, quality and integeration  which processes thousands of B2B data transaction daily.
 - Perform end to end software implementation including new/base map and change management. Application of Agile project management including UAT, Pre and Postproduction testing. RCA engagement and Defect Management for any suspected issues.
 - Provide technical mentorship to junior members.Provide best practices and enforced coding standards.  Discusses business architecture and process design

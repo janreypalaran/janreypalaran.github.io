@@ -50,3 +50,7 @@
 
 ## Interest/Research
 - AI, Statistics, Cloud Technology, 5G, Blockchain.
+
+## Contact
+- linkedin.com/in/janrey-palaran-mit
+- reypalaran27@yahoo.com

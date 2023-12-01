@@ -9,7 +9,7 @@
 
 ## Work Experience
 **Consultant (_2014 - Present_)**
-- Project lead on a solution management team dedicated on APJ region. Provide software analysis, development, quality and integeration  which processes thousands of B2B data transaction daily.
+- Project lead on a solution management team dedicated on APJ region. Provide software analysis, development, quality and integeration  which processes thousands of B2B data transaction daily including .xml, .json, .ff and .csv.
 - Perform end to end software implementation including new/base map and change management. Application of Agile project management including UAT, Pre and Postproduction testing. RCA engagement and Defect Management for any suspected issues.
 - Provide technical mentorship to junior members.Provide best practices and enforced coding standards.  Discusses business architecture and process design
 

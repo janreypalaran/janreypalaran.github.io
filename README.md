@@ -1,6 +1,6 @@
-# Software Consultant
+# EDI Consultant
 
-#### Technical Skills: Java, Python, SQL, .Net, C#, Shell, Linux, Cisco
+#### Technical Skills: .Net, C#/VB, HTML/CSS, Shell Scripting, Java, Python, Cisco, Linux, Unix, SQL scripting.
 
 ## Education							       		
 <!-- - Ph.D., IT | Technological University of the Philippines (_Aug 2023_) -->
@@ -8,7 +8,7 @@
 - B.S., IT | University of Pasig (PH) (_May 2014_)
 
 ## Work Experience
-**Consultant (_2014 - Present_)**
+**EDI Consultant (_2014 - Present_)**
 - Project lead on a solution management team dedicated on APJ region. Provide software analysis, development, quality and integeration  which processes thousands of B2B data transaction daily including .xml, .json, .ff and .csv.
 - Perform end to end software implementation including new/base map and change management. Application of Agile project management including UAT, Pre and Postproduction testing. RCA engagement and Defect Management for any suspected issues.
 - Provide technical mentorship to junior members.Provide best practices and enforced coding standards.  Discusses business architecture and process design
@@ -19,6 +19,9 @@
 <!-- - Negotiate with 3rd party providers to ensure calls are resolved in timely manner. -->
 
 ## Projects
+### 2024 - _(File Merger Tool)_
+- Process Improvement Lead: Qx12 TLE Routing Improvement Process (98% prevention for prod issue).
+  
 ### 2023 - _(File Merger Tool)_
 - Process Improvement Lead: File Merger (98.5%) time saving and automate processes. Develop a window shell script to format files.
 
@@ -38,6 +41,8 @@
 - Project Lead for Team Dashboard Detecting Anomalies and Defect Reporting Resulting to Production Escalation. Develop a system dashboard that detects patterns and anomalies using AI and machine learning technique with 97% accuracy.
 
 ## Courses and Certifications
+- Appworks Analyst, Developer and Administrator
+- Microsoft Power Automate
 - World Quant University - Applied Data Science I and II
 - Great Learning Academy - Data Science, AI, Machine Learning
 - Google Data Analytics Academy - Data Analytics
@@ -53,4 +58,4 @@
 
 ## Contact
 - linkedin.com/in/janrey-palaran-mit
-- reypalaran27@yahoo.com
+- reypalaran27@gmail.com

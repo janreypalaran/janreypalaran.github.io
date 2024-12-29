@@ -8,7 +8,7 @@
 - B.S., IT | University of Pasig (PH) (_May 2014_)
 
 ## Work Experience
-**EDI Consultant (_2016 - Present_)**
+<!-- ** **EDI Consultant (_2016 - Present_)** ** -->
  EDI Consultant with 8+ years of experience in end-to-end EDI implementation and support. Proficient in
  leveraging OpenText tools (TLE, TLW, Workbench, Inovisworks, Biz, OCC PPROD, and PROD) to streamline
  EDI processes. Possess a deep understanding of connectivity protocols such as AS2, FTP, SFTP, and AS400.

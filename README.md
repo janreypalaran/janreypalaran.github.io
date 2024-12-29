@@ -1,6 +1,6 @@
 # EDI Consultant
 
-#### Technical Skills: .Net, C#/VB, HTML/CSS, Shell Scripting, Java, Python, Cisco, Linux, Unix, SQL scripting.
+#### Technical Skills: .Net, C#/VB, HTML/CSS, Shell, Java, Python, Java Script, Unix, SQL.
 
 ## Education							       		
 <!-- - Ph.D., IT | Technological University of the Philippines (_Aug 2023_) -->
@@ -8,17 +8,19 @@
 - B.S., IT | University of Pasig (PH) (_May 2014_)
 
 ## Work Experience
-**EDI Consultant (_2014 - Present_)**
-- Project lead on a solution management team dedicated on APJ region. Provide software analysis, development, quality and integeration  which processes thousands of B2B data transaction daily including .xml, .json, .ff and .csv.
-- Perform end to end software implementation including new/base map and change management. Application of Agile project management including UAT, Pre and Postproduction testing. RCA engagement and Defect Management for any suspected issues.
-- Provide technical mentorship to junior members.Provide best practices and enforced coding standards.  Discusses business architecture and process design
+**EDI Consultant (_2016 - Present_)**
+ EDI Consultant with 8+ years of experience in end-to-end EDI implementation and support. Proficient in
+ leveraging OpenText tools (TLE, TLW, Workbench, Inovisworks, Biz, OCC PPROD, and PROD) to streamline
+ EDI processes. Possess a deep understanding of connectivity protocols such as AS2, FTP, SFTP, and AS400.
+ Skilled in troubleshooting complex EDI issues and optimizing EDI workflows to improve efficiency and
+ accuracy
 
 <!-- **Customer Support - Hinduja Global Sol. (_2014 - 2016_)** -->
 <!-- - Listening & responding with the greatest concern, health insurance related and emergency service requests. -->
 <!-- - Provide effective diffuse high-tension situations in goal driven environment. -->
 <!-- - Negotiate with 3rd party providers to ensure calls are resolved in timely manner. -->
 
-## Projects
+## EDI Projects and Innovation
 ### 2024 - _(Production Qx12 Routing Tool)_
 - Process Improvement Lead: Qx12 TLE Routing Improvement Process (98% prevention for prod issue).
   
@@ -40,21 +42,23 @@
 ### 2018 - _(Collaboration Dashboard)_
 - Project Lead for Team Dashboard Detecting Anomalies and Defect Reporting Resulting to Production Escalation. Develop a system dashboard that detects patterns and anomalies using AI and machine learning technique with 97% accuracy.
 
-## Courses and Certifications
-- Appworks Analyst, Developer and Administrator
+## License and Certifications
 - Microsoft Power Automate
 - World Quant University - Applied Data Science I and II
 - Great Learning Academy - Data Science, AI, Machine Learning
 - Google Data Analytics Academy - Data Analytics
-- Mst Connect - Project Management
+- MST Connect - Project Management
 - Microgenesis Business System - Red Hat Enterprise Linux System Administration I
 - Axelos Global - ITIL Fondation Certified In IT Service Management
 
-## Project Engagement
-- Python for Machine Learning (IDLE, Jupyter, Colab, VS 2019, Pycharm). Object Detection using open-cv, tensorflow, yolov3, imageAI, keras, matplotlib. Speech recognition using pytessarct, pytorch. Stock Price / Analysis Prediction classification algorithm for training models (predictive analysis) using ID3, KNN, scikit-learn, linear regression, bayes, decision trees, random forest, SVM. Spam Detection.
+## Udemy Certifications
+- API and Web Service Introduction, XML and XML Schema Definition, Java for Beginners, 
+Java Database Connection: JDBC and MySQL, Change Management for leaders: Lead like a lion, Leading Gen Z, 
+Root Cause Analysis, Boost Your Productivity: Adapt and Improve, Communication Fundamentals, Goal Setting at 
+Work, MS SQL Crash Course, Time Management.
 
-## Interest/Research
-- AI, Statistics, Cloud Technology, 5G, Blockchain.
+## Non-Technical Skills
+- Leadership, Communication, Plan Analysis, Risk Management Quality and Cost Management. 
 
 ## Contact
 - linkedin.com/in/janrey-palaran-mit

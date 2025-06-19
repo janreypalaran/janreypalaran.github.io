@@ -1,9 +1,9 @@
 # Consultant | Developer
 
-#### .Net, C#/VB, Node JS/TS, Angular/React, Java, Python, Unix/Shell, SQL, Git, API.
+#### .Net, C#/VB, Node JS/TS, Angular/React, Java, Python, Unix/Shell, SQL, Git, REST, SOAP
 
 ## Education							       		
-- Ph.D., IT | Technological University of the Philippines (_-_)
+- Ph.D., IT | Technological University of the Philippines (PH) (_-_)
 - M.S., IT | Adamson University (PH) (_Jul 2021_)	 			        		
 - B.S., IT | University of Pasig (PH) (_May 2014_)
 
@@ -23,7 +23,7 @@
 ## Projects and Innovation
 ### 2025 - _(AppWorks - Automation Tool)_
 - Process Improvement Lead: KPI and Performance Automated System.
-- 
+  
 ### 2024 - _(Production Qx12 Routing Tool)_
 - Process Improvement Lead: Qx12 TLE Routing Improvement Process (98% prevention for prod issue).
   

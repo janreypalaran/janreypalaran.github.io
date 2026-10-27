@@ -1,4 +1,4 @@
-# Consultant | Developer
+# EDI/ERPConsultant | Developer
 
 #### .Net, C#/VB, Node JS/TS, Angular/React, Java, Python, Unix/Shell, SQL, Git, REST, SOAP
 
@@ -21,6 +21,9 @@
 <!-- - Negotiate with 3rd party providers to ensure calls are resolved in timely manner. -->
 
 ## Projects and Innovation
+### 2026 - _(DMEDI Process Automation and D365 ERP)_
+- Lead Consultant: Business Process Automation - Financial Management, Supply Chain & Inventory, Order Management
+  
 ### 2025 - _(AppWorks - Automation Tool)_
 - Process Improvement Lead: KPI and Performance Automated System.
   
@@ -46,6 +49,8 @@
 - Project Lead for Team Dashboard Detecting Anomalies and Defect Reporting Resulting to Production Escalation. Develop a system dashboard that detects patterns and anomalies using AI and machine learning technique with 97% accuracy.
 
 ## License and Certifications
+- D365 Business Central and FNSC - Financial Management, Supply Chain & Inventory, Order Management
+- Netsuite ERP - Supply Chain & Inventory, Order Management
 - AppWorks - Business Analyst Certified
 - AppWorks - Solution Developer Certified
 - AppWorks - Administrator Certified
